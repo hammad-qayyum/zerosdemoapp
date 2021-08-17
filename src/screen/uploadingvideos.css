@@ -1,0 +1,11 @@
+.uploadingvideosheader{
+    display: grid;
+    grid-template-columns: repeat(2,auto);
+}
+
+.videolistitem{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    padding: 50px;
+
+}
